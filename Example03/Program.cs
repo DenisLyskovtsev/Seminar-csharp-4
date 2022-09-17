@@ -19,11 +19,3 @@ void PrintArray(int[] array)
 }
 int[] array = InputArrayElements();
 PrintArray(array);
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-D
